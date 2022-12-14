@@ -2,8 +2,6 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2022-12-14 14:31:49 +0900
-hero_image: /img/jekyll_logo.png
-image: /img/jekyll_logo.png
 tags: bulma-clean-theme jekyll blog
 categories: jekyll update
 ---
