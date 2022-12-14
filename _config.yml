@@ -1,7 +1,7 @@
 # Site Settings
 lang: en
 title: Junha Blog
-tagline: Bulma Clean Theme
+tagline: Junha Blog
 email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
@@ -34,7 +34,7 @@ plugins:
   - kramdown-parser-gfm
   - jekyll-redirect-from
 
-exclude: 
+exclude:
   - Gemfile
   - clean-theme.gemspec
   - Gemfile.lock
@@ -75,7 +75,7 @@ highlighter: rouge
 footer_menu: example_footer_menu
 
 collections:
-  products: 
+  products:
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
