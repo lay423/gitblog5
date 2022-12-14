@@ -2,7 +2,7 @@
 layout: post
 title:  "Optimal Strategy"
 date:   2022-12-14 14:31:49 +0900
-hero_image: /bulma-clean-theme/dp.png
+hero_image: /bulma-clean-theme/img/dp.png
 image: /bulma-clean-theme/img/dp.png
 tags: Optimal Strategy
 categories: jekyll update
