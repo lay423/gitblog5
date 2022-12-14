@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Optimal Strategy"
+title:  "최적전략(Optimal Strategy)"
 date:   2022-12-14 14:31:49 +0900
 tags: Optimal Strategy
 categories: jekyll update
